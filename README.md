@@ -1,1 +1,4 @@
 # devlab_papa
+A NODE JS APP 
+CRUD operations from the APP
+DATA CONNECTED THROUGH MONGODB TO APP
